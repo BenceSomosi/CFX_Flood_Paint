@@ -24,7 +24,7 @@ from maya.app.general.mayaMixin import MayaQWidgetDockableMixin
 WIDTH, HEIGHT = 400, 150
 VERSION = "001"
 INTRODUCTION = "<br><strong>Floood Paint r-"+ VERSION + "</strong><br><br>Select the paint map you want to smooth and floood it!<br><br>Visit my Github page for proper documentation!"
-WELCOME_LINK = "https://github.com/BenceSomosi/CFX---Nucleus-Manager"
+WELCOME_LINK = "https://github.com/BenceSomosi/CFX_Flood_Paint"
 
 
 # Core of the script.
