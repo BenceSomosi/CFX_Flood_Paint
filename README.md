@@ -15,9 +15,9 @@ Quick brief about how to install and use the tool.
 <br>
 <br>
 ### Install
-Download the ```CFX_FloodPaint``` folder from my Github page.
+Download the repository folder from my Github page.
 <br><br>
-Copy and paste the downloaded folder into your Maya folder.
+Copy and paste the ```CFX_FloodPaint``` folder into your Maya folder.
 <br>
 The path should look like this: ```C:\Users\YOUR_USERNAME\Documents\maya\scripts```
 <br>
