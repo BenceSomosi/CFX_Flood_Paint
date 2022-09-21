@@ -7,7 +7,7 @@ Select the paint map you want to smooth and floood it!
 Script is only tested in Maya 2019.
 <br>
 <br>
-Reach me here for more information or if you have any issues! https://www.linkedin.com/in/bensomosi/
+Let me know if you have any issues! https://www.linkedin.com/in/bensomosi/
 <br>
 <br>
 ## Documentation
