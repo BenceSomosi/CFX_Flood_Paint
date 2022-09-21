@@ -41,7 +41,7 @@ Quick brief about how the tool works.
 You can set here how many times you want to flood the paint map.
 <br>
 ##### Floood it!
-Press the the button for run the smooth iterations!
+Press the the button to run the smooth iterations!
 <br>
 <br>
 ### Important notes
