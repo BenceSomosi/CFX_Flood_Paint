@@ -18,6 +18,7 @@ from PySide2.QtCore import *
 from maya.app.general.mayaMixin import MayaQWidgetDockableMixin
 import maya.cmds as cmds
 from maya.app.general.mayaMixin import MayaQWidgetDockableMixin
+import maya.mel as mel
 
 
 # Basic settings
